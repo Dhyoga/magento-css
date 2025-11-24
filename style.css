@@ -1,3 +1,6 @@
 .text-white{
     color:aliceblue;
 }
+.psr-collecting-points .psr-collecting-slider .swiper .swiper-slide .psr-card .psr-card-description {
+    align-items: center !important;
+}
